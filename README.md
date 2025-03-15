@@ -5,6 +5,7 @@ Repositório para armazenar os resumos sobre os assuntos relacionados a git e gi
 
 ## 💻 Resumo das aulas
 
-- Git init -  inicia um repositório git na pasta selecionada do git bash. 
+- Git init -  inicia um repositório git na pasta selecionada do git bash.
+- Editado aqui pelo github
 
 
